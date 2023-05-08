@@ -1,6 +1,4 @@
-# Reading notes 401
-
-## Code 401 - Advanced Software Development
+# Code 401 - Advanced Software Development
 
 Hi, my name is Tricia Sawyer and these are my reading notes for class 401!
 
