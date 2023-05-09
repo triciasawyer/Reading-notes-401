@@ -5,3 +5,11 @@
 After reading the articles about the bash command line and how the terminal works, I now can see the simplicity of the commands, like if you want to make a directory, you say mkdir, or when moving a directory, you say mvdir. I defintely like the terminal now that i understand it, but at first, I was very hesitant and a bit scared to just mess around with it because I didn't want to break anything.
 
 ## Prep: The Growth Mindset
+
+This topic matters because as we are working on things that can bring many issues or just frustration, you need to understand and know how to deal with those things, and that where mindset
+
+### Things I want to know more about
+
+Practice in the Terminal: I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
+
+The Growth Mindset: I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general.
