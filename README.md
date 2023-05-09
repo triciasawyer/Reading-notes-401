@@ -27,3 +27,4 @@
 - [401 Class 19](class-19.md)
 - [401 Class 20](class-20.md)
 - [401 Class 21](class-21.md)
+- [Prep work](prep-work.md)
