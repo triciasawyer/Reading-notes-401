@@ -18,5 +18,12 @@ The Growth Mindset: I want to know more about being able to grow mentally so I c
 
 **What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
 
-
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
+
+## Prep: Engineering Readings
+
+**What’s the one thing I bring to this career (and a potential employer) that nobody else can?**
+
+**What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
+-Google an example to get a refresher
+-Take a 5 minute break to have a fresh set of eyes
