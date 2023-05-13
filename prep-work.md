@@ -2,11 +2,11 @@
 
 ## Prep: Practice in the terminal
 
-After reading the articles about the bash command line and how the terminal works, I now can see the simplicity of the commands, like if you want to make a directory, you say mkdir, or when moving a directory, you say mvdir. I defintely like the terminal now that i understand it, but at first, I was very hesitant and a bit scared to just mess around with it because I didn't want to break anything.
+After reading the articles about the bash command line and how the terminal works, I now can see the simplicity of the commands, like if you want to make a directory, you say mkdir, or when moving a directory, you say mvdir. I definitely like the terminal now that I understand it, but at first, I was very hesitant and a bit scared to just mess around with it because I didn't want to mess anything up. I think this topic is important because the terminal is very useful and it's something that I believe everyone should know how to work with.
 
 ## Prep: The Growth Mindset
 
-This topic matters because as we are working on things that can bring many issues or just frustration, you need to understand and know how to deal with those things, and that where mindset
+This topic matters because as we are working on things that can have many issues or bring on frustration, we need to understand and know how to deal with those things, as well as just putting ourselves in a good head space to begin with, to be able to better solve problems and code overall. I can relate this to my previous work experience, as I worked at an Early Childcare Center (ECC) before attending DeltaV. Working in a daycare environment can easily break you if you aren't prepared or equipped to deal with many of the things that you deal with daily. I was an assistant teacher who floated to different rooms through out the day so that made it more difficult, but I had to have that growth mindset of embracing challenges and changes, and putting in effort with each child because I know that was going to lead to results for myself and the children. If I didn't have that growth mindset, I would be bulldozed by the children and caught off guard with challenges or changes. The children depended on someone like me at that time, and that was very important to be able to be there for them and support them, and even when it was chaos at times, I had to be able to managae myself for them.
 
 ## Prep: Data Structures and Algorithms
 
@@ -21,7 +21,6 @@ This topic matters because as we are working on things that can bring many issue
 **What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
 -Google an example to get a refresher
 -Take a 5 minute break to have a fresh set of eyes
-
 
 ### Things I want to know more about
 
