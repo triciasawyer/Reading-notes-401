@@ -26,4 +26,4 @@ This topic matters because as we are working on things that can have many issues
 
 Practice in the Terminal: I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
 
-The Growth Mindset: I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general.
+The Growth Mindset: I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general. Confidence is a big one that I want to grow in.
