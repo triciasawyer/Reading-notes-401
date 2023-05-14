@@ -2,7 +2,7 @@
 
 ## Prep: Practice in the terminal
 
-After reading the articles about the bash command line and how the terminal works, I now can see the simplicity of the commands, like if you want to make a directory, you say mkdir, or when moving a directory, you say mvdir. I definitely like the terminal now that I understand it, but at first, I was very hesitant and a bit scared to just mess around with it because I didn't want to mess anything up. I think this topic is important because the terminal is very useful and it's something that I believe everyone should know how to work with.
+After reading the articles about the bash command line and how the terminal works, I better understand the simplicity of the commands, like if you want to make a directory, you say mkdir, or when moving a directory, you say mvdir. I definitely like the terminal now that I understand it, but at first, I was very hesitant and a bit scared to just mess around with it because I didn't want to mess anything up. I think this topic is important because the terminal is very useful and it's something that I believe everyone should know how to work with.
 
 ## Prep: The Growth Mindset
 
@@ -13,6 +13,7 @@ This topic matters because as we are working on things that can have many issues
 **What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
 
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
+shfjdfkdjfd
 
 ## Prep: Engineering Readings
 
