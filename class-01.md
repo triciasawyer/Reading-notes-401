@@ -16,3 +16,5 @@ Node allows developers to write JavaScript code in the computer process itself i
 **Looking ahead at this module’s course schedule, What do you look forward to learning?**
 
 **What are your learning goals after reading and reviewing the class README?**
+
+## Things I want to know more about
