@@ -23,6 +23,12 @@ shfjdfkdjfd
 -Google an example to get a refresher
 -Take a 5 minute break to have a fresh set of eyes
 
+## Prep: Introduction to SQL
+
+To summarize my understanding of relational databases and SQL, relational databases provide several advantages including data integrity through the use of constraints and relationships, scalability, and ease of data manipulation through SQL queries. They are widely used in multiple industries and applications to store and retrieve structured data.
+
+- [Exercise one](exercise1.png)
+
 ### Things I want to know more about
 
 Practice in the Terminal: I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
