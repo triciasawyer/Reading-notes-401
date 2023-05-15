@@ -45,8 +45,8 @@ You need at least one branch (with an if/else statement) that does not make a re
 
 <u>Practice in the Terminal:</u> I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
 
-++The Growth Mindset:++ I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general. Confidence is a big one that I want to grow in.
+<u>The Growth Mindset:</u> I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general. Confidence is a big one that I want to grow in.
 
-++Introduction to SQL:++ I want to know more about how to control it and all the selectors that can be used to do certain things.
+<u>Introduction to SQL:</u> I want to know more about how to control it and all the selectors that can be used to do certain things.
 
-++Data Structures and Algorithms:++ I want to know more about recursive call stacks, and knowing which data structure to use when.
+<u>Data Structures and Algorithms:</u> I want to know more about recursive call stacks, and knowing which data structure to use when.
