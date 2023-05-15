@@ -27,7 +27,7 @@ shfjdfkdjfd
 
 To summarize my understanding of relational databases and SQL, relational databases provide several advantages including data integrity through the use of constraints and relationships, scalability, and ease of data manipulation through SQL queries. They are widely used in multiple industries and applications to store and retrieve structured data.
 
-- [Exercise one](images/exercise1.png)
+- [Exercise 1](images/exercise1.png)
 - [Exercise 2](images/exercise2.png)
 - [Exercise 3](images/exercise3.png)
 - [Exercise 4](images/exercise4.png)
