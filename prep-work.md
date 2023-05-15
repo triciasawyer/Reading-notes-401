@@ -30,7 +30,7 @@ To summarize my understanding of relational databases and SQL, relational databa
 **What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
 
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
-shfjdfkdjfd
+You need at least one branch (with an if/else statement) that does not make a recursive call. Branches without recursive calls are called base cases, and branches with recursive calls are called recursive cases.
 
 ## Prep: Engineering Readings
 
@@ -38,7 +38,7 @@ shfjdfkdjfd
 
 **What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
 -Google an example to get a refresher
--Take a 5 minute break to have a fresh set of eyes
+-Take a 5-10 minute break to then come back and have a fresh set of eyes
 
 ### Things I want to know more about
 
