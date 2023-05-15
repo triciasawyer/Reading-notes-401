@@ -8,21 +8,6 @@ After reading the articles about the bash command line and how the terminal work
 
 This topic matters because as we are working on things that can have many issues or bring on frustration, we need to understand and know how to deal with those things, as well as just putting ourselves in a good head space to begin with, to be able to better solve problems and code overall. I can relate this to my previous work experience, as I worked at an Early Childcare Center (ECC) before attending DeltaV. Working in a daycare environment can easily break you if you aren't prepared or equipped to deal with many of the things that you deal with daily. I was an assistant teacher who floated to different rooms through out the day so that made it more difficult, but I had to have that growth mindset of embracing challenges and changes, and putting in effort with each child because I know that was going to lead to results for myself and the children. If I didn't have that growth mindset, I would be bulldozed by the children and caught off guard with challenges or changes. The children depended on someone like me at that time, and that was very important to be able to be there for them and support them, and even when it was chaos at times, I had to be able to manage myself for them.
 
-## Prep: Data Structures and Algorithms
-
-**What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
-
-**How can we ensure that we’ll avoid an infinite recursive call stack?**
-shfjdfkdjfd
-
-## Prep: Engineering Readings
-
-**What’s the one thing I bring to this career (and a potential employer) that nobody else can?**
-
-**What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
--Google an example to get a refresher
--Take a 5 minute break to have a fresh set of eyes
-
 ## Prep: Introduction to SQL
 
 To summarize my understanding of relational databases and SQL, relational databases provide several advantages including data integrity through the use of constraints and relationships, scalability, and ease of data manipulation through SQL queries. They are widely used in multiple industries and applications to store and retrieve structured data.
@@ -39,6 +24,21 @@ To summarize my understanding of relational databases and SQL, relational databa
 [Exercise 16](images/exercise16.png)
 [Exercise 17](images/exercise17.png)
 [Exercise 18](images/exercise18.png)
+
+## Prep: Data Structures and Algorithms
+
+**What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
+
+**How can we ensure that we’ll avoid an infinite recursive call stack?**
+shfjdfkdjfd
+
+## Prep: Engineering Readings
+
+**What’s the one thing I bring to this career (and a potential employer) that nobody else can?**
+
+**What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
+-Google an example to get a refresher
+-Take a 5 minute break to have a fresh set of eyes
 
 ### Things I want to know more about
 
