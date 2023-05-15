@@ -43,7 +43,7 @@ You need at least one branch (with an if/else statement) that does not make a re
 
 ### Things I want to know more about
 
-++Practice in the Terminal:++ I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
+<u>Practice in the Terminal:</u> I want to know more about the commands and be able to just know them by heart to be able to use them confidently.
 
 ++The Growth Mindset:++ I want to know more about being able to grow mentally so I can better myself whether that be for work or just growing as a person in general. Confidence is a big one that I want to grow in.
 
