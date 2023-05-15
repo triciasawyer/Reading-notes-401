@@ -28,6 +28,7 @@ To summarize my understanding of relational databases and SQL, relational databa
 ## Prep: Data Structures and Algorithms
 
 **What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
+What are the operations going to perform and how often they are going to be executed. Keep in mind that there are several ways of executing something.
 
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
 You need at least one branch (with an if/else statement) that does not make a recursive call. Branches without recursive calls are called base cases, and branches with recursive calls are called recursive cases.
