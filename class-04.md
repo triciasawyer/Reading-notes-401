@@ -3,7 +3,9 @@
 ## nosql vs sql
 
 **What type of database is the best fit for the complex query intensive environment?**
+
 **What type of database is the best fit for hierarchical data storage?**
+
 **Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.**
 
 ## sql modeling techniques
