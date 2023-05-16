@@ -36,11 +36,26 @@ A big benefit that comes from testing code is identification and removal of erro
 + Although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling.
 
 **Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.**
+Individual pitfalls
+
++ forgetting to run tests frequently
++ writing too many tests at once
+
+Team pitfalls
+
++ partial adoption – only a few developers on the team use TDD(test-driven-development)
++ poor maintenance of the test suite – most commonly leading to a test suite with a prohibitively long running time
 
 ## CI/CD
 
 **What are three benefits of Continuous Integration?**
 
++ Fault Isolations
++ Faster Mean Time To Resolution (MTTR) ...
++ More Test Reliability. ...
+
 **What is the difference between Continuos Delivery and Continuous Deployment?**
+Continuous Delivery is a software engineering practice where the code changes are prepared to be released. Continuous Deployment aims at continuously releasing the code changes into the production environment.
 
 **Explain how GitHub fits into this process assuming the listener comes from a non-technical background.**
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere, and GitHub fits into this process because as we use github to host our written code, we need tests to be written to test our code and then those tests need to be passing to then be able to host it correctly on our hosting platform, GitHub.
