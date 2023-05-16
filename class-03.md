@@ -24,11 +24,16 @@ A route method is derived from one of the HTTP methods, while route paths, along
 ## Express Routing
 
 **What is an Express Router?**
+It is a mini express application without all the bells and whistles of an express application, just the routing stuff.
 
 **By what mean do we initialize express.Router() in an express server?**
+When creating our frontend routes for our application. This includes the Home and About pages.
 
 **What do we use route middleware for?**
+We use route middleware to run a certain route parameter. In our case with the lab, we are using :name in our hello route
 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
+My learning goals are to become aware and comfortable with backend just in general, but to be more specific, learning how to target routes and use them to do what I want.
