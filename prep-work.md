@@ -36,7 +36,7 @@ You need at least one branch (with an if/else statement) that does not make a re
 ## Prep: Engineering Readings
 
 **What’s the one thing I bring to this career (and a potential employer) that nobody else can?**
-One thing I bring to this career, and a potential employer, that nobody else can is my experiences. I say that because my expereinces are unique to me. For example, I was invovled in many team sports and I just graduated college, which has made me a good collaborator so working with others goes pretty well. I also can draw experience from my past jobs, such as a statistic keeper for Perfect Game baseball where I grew in my ability to be aware and detailed in what I did, whichh can transate over to my work in code.
+One thing I bring to this career, and a potential employer, that nobody else can is my experiences. I say that because my expereinces are unique to me. For example, I was invovled in many team sports and I graduated college recently, I've had to work with others a lot which has made me a good collaborator, so working with others goes pretty well. I also can draw experience from my past jobs, such as a statistic keeper for Perfect Game baseball where I grew in my ability to be aware and detailed in what I did, whichh can transate over to my work in code.
 
 **What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
 Google an example to get a refresher, take a 5-10 minute break to then come back and have a fresh set of eyes, and ask for help (15 minute rule!)
