@@ -48,7 +48,7 @@ Team pitfalls
 
 ## CI/CD
 
-**What are three benefits of Continuous Integration?**g
+**What are three benefits of Continuous Integration?**
 
 + Fault Isolations
 + Faster Mean Time To Resolution (MTTR) ...
