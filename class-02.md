@@ -59,3 +59,7 @@ Continuous Delivery is a software engineering practice where the code changes ar
 
 **Explain how GitHub fits into this process assuming the listener comes from a non-technical background.**
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere, and GitHub fits into this process because as we use github to host our written code, we need tests to be written to test our code and then those tests need to be passing to then be able to host it correctly on our hosting platform, GitHub.
+
+## What are your learning goals after reading and reviewing the class README?
+
+My goals are to learn how to write and run a test properly. Also excited to learn about super test and the backend overall.
