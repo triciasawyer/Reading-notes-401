@@ -28,3 +28,7 @@ A route method is derived from one of the HTTP methods, while route paths, along
 **By what mean do we initialize express.Router() in an express server?**
 
 **What do we use route middleware for?**
+
+## Reflection
+
+**What are your learning goals after reading and reviewing the class README?**
