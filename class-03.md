@@ -20,6 +20,7 @@ Routing refers to how an application responds to a client request to a particula
 A route method is derived from one of the HTTP methods, while route paths, along with a request method, define the endpoints at which requests can be made. Route paths can be strings, string patterns, or regular expressions.
 
 **When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?**
+When next is invoked, it executes the middleware succeeding the current middleware. If next has been passed to your middleware as a parameter, you must use next() with nothing in it unless you want to cause an error.
 
 ## Express Routing
 
