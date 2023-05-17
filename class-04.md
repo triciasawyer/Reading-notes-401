@@ -26,5 +26,7 @@ A primary key generally focuses on the uniqueness of the table. It assures the v
 **How do we treat keywords and parameters differently in SQL syntax?**
 
 **Define normalization within the context of schemas and data.**
+Columns are assigned to tables in such a way that each business fact is stored only once, or in other words, a table should not contain duplicate data.
 
 **Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.**
+One-to-one: A record in one table is related to one record in another table. One-to-many: A record in one table is related to many records in another table. Many-to-many: Multiple records in one table are related to multiple records in another table.
