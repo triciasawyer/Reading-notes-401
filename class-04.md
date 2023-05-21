@@ -24,6 +24,7 @@ A primary key generally focuses on the uniqueness of the table. It assures the v
 ## sql vs nosql
 
 **How do we treat keywords and parameters differently in SQL syntax?**
+Keywords are reserved words that have predefined meanings in SQL. They are part of the SQL language and serve specific purposes within SQL statements. SQL keywords include SELECT, FROM, WHERE, INSERT, UPDATE, DELETE, JOIN, and GROUP BY. Parameters, also known as placeholders or bind variables, are used to pass dynamic values into SQL statements. In most SQL database systems, parameters are represented by placeholders, often using a question mark (?) or a named parameter syntax. So, the main distinction between keywords and parameters is that keywords are predefined language elements that define the structure and behavior of the SQL statement, whereas parameters are placeholders for values that can be substituted at runtime to make the query more flexible and reusable.
 
 **Define normalization within the context of schemas and data.**
 Columns are assigned to tables in such a way that each business fact is stored only once, or in other words, a table should not contain duplicate data.
