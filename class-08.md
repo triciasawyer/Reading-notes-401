@@ -5,7 +5,7 @@
 **What is Role Based Access Control (RBAC) and why do we care?**
 Role-Based Access Control (RBAC) is a method of access control that provides a structured approach to managing and controlling user access to resources within a system or organization. It revolves around the concept of roles, which are defined based on job functions, responsibilities, or organizational positions.
 
-**Describe a Role/Permission heirarchy that you might implement using RBAC.**
+**Describe a Role/Permission heirarchy that you might implement using RBAC.** &nbsp
 -Role: Guest
 Permissions: Limited access to public information and resources. No ability to modify or create content. &nbsp
 
