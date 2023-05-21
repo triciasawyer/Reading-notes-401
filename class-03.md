@@ -38,3 +38,5 @@ We use route middleware to run a certain route parameter. In our case with the l
 **What are your learning goals after reading and reviewing the class README?**
 
 My learning goals are to become aware and comfortable with backend just in general, but to be more specific, learning how to target routes and use them to do what I want.
+
+## Things I want to know more about

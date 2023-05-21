@@ -63,3 +63,5 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 ## What are your learning goals after reading and reviewing the class README?
 
 My goals are to learn how to write and run a test properly. Also excited to learn about super test and the backend overall.
+
+## Things I want to know more about

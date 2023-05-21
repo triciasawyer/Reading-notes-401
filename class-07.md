@@ -40,3 +40,5 @@ First, there’s the header that includes a json object with an algorithm and a 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?** To get more comfortable with a basic api server and writing tests, as well as learn how to use a bearer for api and just apis in general. Also, JWT that uses base64Url sounds really interesting too!
+
+## Things I want to know more about

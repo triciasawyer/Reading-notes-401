@@ -42,3 +42,5 @@ I am looking forward to learning Role Based Access Control and doibg our guided 
 
 **What are your learning goals after reading and reviewing the class readme?**
 To better understand Bcrypt.
+
+## Things I want to know more about

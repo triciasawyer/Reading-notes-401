@@ -31,3 +31,5 @@ Columns are assigned to tables in such a way that each business fact is stored o
 
 **Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.**
 One-to-one: A record in one table is related to one record in another table. One-to-many: A record in one table is related to many records in another table. Many-to-many: Multiple records in one table are related to multiple records in another table.
+
+## Things I want to know more about
