@@ -6,12 +6,9 @@
 Role-Based Access Control (RBAC) is a method of access control that provides a structured approach to managing and controlling user access to resources within a system or organization. It revolves around the concept of roles, which are defined based on job functions, responsibilities, or organizational positions.
 
 **Describe a Role/Permission heirarchy that you might implement using RBAC.**
-Role: Guest
-Permissions: Limited access to public information and resources. No ability to modify or create content.
-Role: Member
-Permissions: Access to member-only resources, ability to view and update personal profile information, and participate in discussions.
-Role: Moderator
-Permissions: All permissions of a Member role, plus additional capabilities to manage discussions, moderate content, approve or reject user-generated content, and enforce community guidelines.
+Role: Guest<br>Permissions: Limited access to public information and resources. No ability to modify or create content.
+Role: Member<br>Permissions: Access to member-only resources, ability to view and update personal profile information, and participate in discussions.
+Role: Moderator<br>Permissions: All permissions of a Member role, plus additional capabilities to manage discussions, moderate content, approve or reject user-generated content, and enforce community guidelines.
 
 **What approach might you take to implement RBAC?**
 I’d start by identifying the roles that exist within the organization or system. Then, analyze the different levels of access needed for each role.
