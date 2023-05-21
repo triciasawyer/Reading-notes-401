@@ -15,14 +15,13 @@ Bcrypt also has employs multiple rounds of hashing. The number of rounds is dete
 ## Basic AUTH
 
 **What is Basic Authentication?**
-Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request
+Basic Authentication is a method for an HTTP user agent (a web browser) to provide a username and password when making a request.
 
 **What properties are necessary in the header of a Basic Auth request?**
-In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic < credentials >, where credentials is the Base64 encoding of ID and password
+In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic < credentials >, where credentials is the Base64 encoding of ID and password.
 
 **How are username:password in Basic Auth encoded?**
-To give an example, if the browser uses Aladdin as the username and open sesame as the password, then the field's value is the Base64 encoding of Aladdin:open sesame, or QWxhZGRpbjpvcGVuIHNlc2FtZQ==. Then the Authorization header field will appear as:
-Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+To give an example, if the browser uses Aladdin as the username and open sesame as the password, then the field's value is the Base64 encoding of Aladdin:open sesame, or QWxhZGRpbjpvcGVuIHNlc2FtZQ==. Then the Authorization header field will appear as, "Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ=="
 
 ## OWASP auth cheatsheet
 
@@ -39,5 +38,7 @@ When the server wants the user agent to authenticate itself towards the server a
 ## Additional questions
 
 **Looking ahead at this module’s course, what do you look forward to learning?**
+I am looking forward to learning Role Based Access Control and doibg our guided projects.
 
 **What are your learning goals after reading and reviewing the class readme?**
+To better understand Bcrypt.
