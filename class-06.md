@@ -10,7 +10,7 @@ Bcrypt is a widely-used password hashing algorithm that is designed to be secure
 
 **Why might you use something like Bcrypt?**
 Bcrypt automatically generates a random salt for each password that is hashed. The salt is combined with the password before hashing to create a unique input, ensuring that even users with the same password will have different hash codes.
-Bcrypt also has employs multiple rounds of hashing. The number of rounds is determined by the cost factor. The multiple rounds significantly increase the time it takes to hash a password, making it more resistant to attacks.
+Bcrypt also employs multiple rounds of hashing. The number of rounds is determined by the cost factor. The multiple rounds significantly increase the time it takes to hash a password, making it more resistant to attacks.
 
 ## Basic AUTH
 
