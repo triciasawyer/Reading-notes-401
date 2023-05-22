@@ -13,3 +13,5 @@ Build a collaborative whiteboard application where multiple clients can connect 
 
 **What are your learning goals after reading and reviewing the class README?**
 I am hoping to achieve whatever project idea a partner and I choose, that will include an event based messaging server, which I am eager to learn more about and create.
+
+## Things I want to know more about
