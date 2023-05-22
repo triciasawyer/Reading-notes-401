@@ -18,3 +18,5 @@ Another possible project idea is to create a blogging platform where users can w
 
 **What are your learning goals after reading and reviewing the class README?**
 Working more with Auth, as I’ve briefly worked with Auth in my code 301 presentation but would like to get more comfortable with that.
+
+## Things I want to know more about

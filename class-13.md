@@ -36,3 +36,5 @@ To leave a channel you call leave in the same fashion as join.
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
+## Things I want to know more about

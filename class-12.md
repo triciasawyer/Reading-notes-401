@@ -45,3 +45,5 @@ Request
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
+## Things I want to know more about
