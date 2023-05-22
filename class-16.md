@@ -37,7 +37,9 @@ One reason to use ECS (Elastic Container Service) instead of services like Herok
 
 ## Additional Questions
 
-Looking ahead at this module’s course schedule, What do you look forward to learning?
-What are your learning goals after reading and reviewing the class README?
+**Looking ahead at this module’s course schedule, What do you look forward to learning?**
+
+**What are your learning goals after reading and reviewing the class README?**
+To get familair with the cloud and containers.
 
 ## Things I want to know more about
