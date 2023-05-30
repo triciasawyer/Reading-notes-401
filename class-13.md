@@ -46,3 +46,5 @@ Imagine you are building a real-time application that consists of two main secti
 To learn about building an event based messaging server.
 
 ## Things I want to know more about
+
+Common issues you can run into.
