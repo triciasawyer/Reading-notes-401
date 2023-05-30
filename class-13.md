@@ -3,6 +3,7 @@
 ## Socket.io chat example
 
 **Explain to a non-technical recruiter what the Chat Example (above) does.**
+The Chat Example provided above is a guide that demonstrates how to create a basic chat application using Node.js and Socket.IO. It walks through the process of setting up a server and integrating a real-time communication between the server and clients. It starts by explaining the challenges of implementing real-time chat systems and introduces the concept of sockets, which allow for bidirectional communication between clients and servers.
 
 **What proof of life are we getting on the backend from the above app?**
 A console log with a message saying , "a user connected."
