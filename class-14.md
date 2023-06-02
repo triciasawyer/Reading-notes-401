@@ -5,9 +5,9 @@
 Note: Requirement is to spend one lab session working on this project, however additional time may be an option. Due date will be given in class and we’ll present briefly at the beginning of the next module.
 
 **Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.**
-A real-time chat application where the hub server acts as a central messaging hub, and multiple clients can connect to it to exchange messages. Clients can publish messages to the hub, which will then distribute the messages to other connected clients based on their subscriptions. This project will involve implementing a server-client architecture, event-driven communication, and handling message publishing and subscription.
+A chat application that enables users to join communities of their interest and engage in real-time discussions. Users would be able to explore different communities, join chat rooms, share thoughts, and connect with like-minded individuals. I think if I were to actually create something like this, it would be cool to add a locations API as well.
 
-Build a collaborative whiteboard application where multiple clients can connect to the hub server and collaborate in real-time. Clients can publish their drawing actions (such as drawing lines, shapes, or annotations) to the hub, and the hub will distribute the actions to other clients for synchronized display. It will involve establishing a networked communication infrastructure, managing collaborative sessions, and implementing event-based synchronization.
+A collaborative whiteboard application where multiple clients can connect to the server and collaborate in real-time. Clients would be able to publish their drawing actions to the hub, and the hub will distribute the actions to other clients for synchronized display.
 
 ## Reflection
 
