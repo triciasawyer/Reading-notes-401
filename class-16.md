@@ -16,16 +16,23 @@ One reason to use ECS (Elastic Container Service) instead of services like Herok
 ## EC2 For Humans
 
 **Where can we find EC2 on the AWS Console?**
+After signing in, you can search EC2 or Elastic Compute Cloud, then EC2 dashboard will open, displaying the overview of your EC2 instances and other information. You can also navigate EC2 from the services menu, and a list of available AWS services will appear. You can scroll down or use the search bar to find EC2.
 
 **Explain the general difference between T2 Micro and XL.**
+T2 Micro instances are part of the T2 instance family, which is designed for general purpose workloads. T2 Micro instances have the smallest size within the T2 family and provide a low cost option for applications. T2 Micro instances are burstable performance instances. They come with a baseline CPU performance and CPU credits. T2 Micro instances are suitable for applications with intermittent or low CPU utilization.
+
+The term "XL" is not specific to any particular instance family in EC2. It is just used to refer to larger instance sizes across various families. The performance of an "XL" instance will depend on the specific instance family and size chosen. XL instances, depending on the specific instance family and size chosen, are typically priced higher than T2 Micro instances due to their increased resources and performance capabilities.
 
 **Explain a “Compute Cycle” to a non-technical friend.**
+Think of having a task to complete, like solving a math problem. To solve the problem, you need to perform a series of steps, such as adding, subtracting, multiplying, and dividing numbers. Each step you take to solve the problem is like a compute cycle.
 
 ## Elastic Beanstalk
 
 **What is Elastic Beanstalk?**
+Elastic Beanstalk is a fully managed service provided by Amazon Web Services(AWS), that makes it easier to deploy, manage, and scale applications in the cloud. You can simply upload your application code, and the service takes care of provisioning the necessary compute resources, such as Amazon EC2 instances, load balancers, databases, and storage, to run your application
 
 **Describe the relationship between EC2 and Elastic Beanstalk.**
+EC2 and Elastic Beanstalk are two related services within the Amazon Web Services (AWS) system. They are both distinct services, but they work together to provide a platform for deploying and managing applications in the cloud.
 
 **Name some benefits of using Elastic Beanstalk.**
 
