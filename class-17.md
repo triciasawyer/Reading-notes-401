@@ -3,7 +3,7 @@
 ## AWS S3
 
 **What is Amazon S3?**
-An object storage service that offers scalability, data availability, security, and performance. Industries of all sizes can store and protect any amount of data for about any use case including data lakes, cloud-native applications, and mobile apps. 
+An object storage service that offers scalability, data availability, security, and performance. Industries of all sizes can store and protect any amount of data for about any use case including data lakes, cloud-native applications, and mobile apps.
 
 **Name some use cases for Amazon S3.**
 Build a data lake, back up and restore critical data, archive data at the lowest cost, and run cloud-native applications.
