@@ -25,11 +25,15 @@ Say you want to run a small business, like selling sculpted pieces online. Norma
 ## CDN
 
 **What is a CDN?**
+Content Delivery Network (CDN) is a distributed network of servers located in various geographical locations around the world. Its purpose is to deliver web content and other digital assets to users with high availability and performance. When a user requests a webpage or any other online content, the request is routed to the nearest server within the CDN network. This server, also known as an edge server or a Point of Presence (PoP), stores cached copies of the content. By storing content in multiple edge servers distributed globally, CDNs can reduce latency and improve the delivery speed.
 
 **How does a CDN work with relation to the website visitor?**
+The CDNs first step is to request routing. The visitor's request is initially directed to the DNS (Domain Name System) server responsible for resolving the website's domain name. The DNS server will typically route requests through the CDN as it determines the nearest or most optimal server within the CDN network to handle the request based on the geographic proximity, server load, and network conditions. Then, once the DNS server identies the appropriate server, the visitors request is forwarded to that server and stored as a copy. Next, the content availability is where the sever checks if it has the copy of the request content and if so, it directly sends the content to the visitor.
 
 **What are the benefits of employing a CDN?**
+Improved Website Performance, Enhanced User Experience(with faster load times), Global Availability, and Scalability and High Availability (CDN helps to prevent overwhelming the origin server)
 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+To better understand how to work with AWS (especially S3) and CDNs, to then create S3 buckets for file storage
