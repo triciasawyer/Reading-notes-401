@@ -45,6 +45,7 @@ EC2 and Elastic Beanstalk are two related services within the Amazon Web Service
 ## Additional Questions
 
 **Looking ahead at this module’s course schedule, What do you look forward to learning?**
+What all AWS includes and how to use it.
 
 **What are your learning goals after reading and reviewing the class README?**
 To get familair with the cloud and containers.
