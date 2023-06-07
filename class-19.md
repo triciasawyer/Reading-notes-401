@@ -24,6 +24,15 @@ The SNS service will distribute the messages to all the subscribed SQS queues.
 - To consume Messages from SQS Queues, each consumer can independently retrieve messages from its assigned SQS queue using the AWS SDK or API. Process the messages based on your application logic. Once a consumer retrieves a message, it becomes invisible to other consumers for a specified visibility timeout period. After the timeout, the message becomes visible again and can be consumed by another consumer.
 
 **Explain how “push notifications” work, using SNS.**
+Push notifications using SNS (Simple Notification Service) involve the delivery of real-time messages or notifications to subscribers on various platforms, such as mobile devices, web applications, or other endpoints.
+
+- Create an SNS topic and subscribe endpoints (devices or applications) to it. For mobile devices (iOS, Android), integrate SNS with push notification services (APNs, FCM) and register device tokens with SNS. For web applications or other endpoints, subscribe using HTTP/HTTPS protocols and provide endpoint URLs.
+- Publishing messages to the SNS topic, you use the AWS SDK or API to send messages in JSON or other formats, including content and metadata.
+SNS handles message delivery to all subscribed endpoints based on their protocols.
+- With SNS communicates with push notification services or endpoints, for mobile devices, SNS interacts with APNs, FCM, etc.
+For web applications or other endpoints, SNS sends HTTP/HTTPS requests directly.
+- Endpoint/device/application handles received notifications. Mobile devices display notifications in the notification center, show alerts, play sounds, or update app badges based on the content.
+Web applications or other endpoints process the notification based on their platform-specific logic
 
 ## SQS and SNS Basics
 
