@@ -37,6 +37,7 @@ Web applications or other endpoints process the notification based on their plat
 ## SQS and SNS Basics
 
 **How might a large scale, distributed application make use of a Queue system like SQS?**
+A large scale distrubuted application may make use of SQS by using their error handling and retries feature. SQS provides a built-in retry mechanism for processing messages. If a component fails to process a message successfully, SQS can automatically re-queue the message, allowing the component to retry the operation. This helps in handling transient failures and ensures that no messages are lost in case of component failures.
 
 ## Bookmark and Review
 
@@ -46,4 +47,4 @@ Web applications or other endpoints process the notification based on their plat
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
-Looking forward to learning about SNS because that is a big thing that we use throughout technology and it will be really interesting building that.
+Looking forward to learning about SNS (notifications) because that is something that everyone uses almost everyday and it will be really interesting building that on top of our knowledge about sending messages.
