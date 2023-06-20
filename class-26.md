@@ -43,9 +43,13 @@ Two React components can share data by lifting the state up to their closest com
 Keep these pages handy - they answer questions that show up regularly for this lab.
 
 [Your First Component](https://react.dev/learn/your-first-component)
+
 [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
+
 [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
+
 [sass cheatsheet](https://devhints.io/sass)
+
 [react cheatsheet](https://devhints.io/react)
 
 ## Additional Questions
