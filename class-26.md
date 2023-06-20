@@ -1,6 +1,6 @@
 # Reading notes class 26
 
-## React Quick Start
+## [React Quick Start](https://react.dev/learn)
 
 **What are the building blocks of a React app?**
 Components, JSX, props, and state are the foundation of React JS development.
@@ -28,15 +28,19 @@ React responds to a user's inputs through the concept of "event handling" and th
 **How can two react components share data?**
 Two React components can share data by lifting the state up to their closest common ancestor component. This means that the shared data is stored in a common parent component, and then passed down to the child components as props.
 
-## Render and Commit
+## [Render and Commit](https://react.dev/learn/render-and-commit)
 
 **What are the three steps of refreshing a React UI?**
+Modifying state or props, performing reconciliation, and rendering, which allows for the React UI to be refreshed to reflect the updated data and provide an interactive user experience.
 
 **How do you trigger updates to a component after the initial render?**
+When you update your component's state using the set function, it automatically triggers a re-render. You can think of this process as a restaurant guest ordering tea, dessert, and various items after placing their initial order. The guest's subsequent orders depend on their level of thirst or hunger, which corresponds to the state of the component. React's state updates work in a similar way, allowing you to dynamically modify the component's data and trigger a re-render to reflect those changes.
 
 **Does React recreate DOM nodes on every rerender?**
+No, React does not recreate DOM nodes on every re-render. React utilizes a virtual DOM (VDOM) concept to efficiently update the actual DOM. It compares the previous virtual DOM representation with the new one. It identifies the differences between the two representations, and updates them, which is known as the "diffing" process. By doing so, it allows React to optimize rendering by avoiding unnecessary recreation of DOM nodes. Instead, it focuses on efficiently updating the existing DOM nodes to reflect the changes in the component's state or props.
 
 **After React has updated the DOM, what still needs to happen before the user sees the change?**
+After the DOM updates are applied, the browser performs the layout and paint phases. During the layout phase, the browser calculates the position and size of each element in the DOM tree. Then, in the paint phase, the browser renders the updated content on the screen. Then, the updated content becomes visible to the user on the screen. The user can now see the changes that were made to the UI as a result of React's rendering and DOM update process.
 
 ## Bookmark and Review
 
