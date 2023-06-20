@@ -56,3 +56,5 @@ Dynamoose provides an Object Data Modeling (ODM) approach for working with Dynam
 
 **What are your learning goals after reading and reviewing the class README?**
 I am excited to learn about dynamoDB and to learn through experience how that works differently than MongoDB
+
+## Things I want to know more about

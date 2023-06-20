@@ -25,3 +25,5 @@ It allows you to specify a cleanup function that will be executed when the compo
 
 **What are your learning goals after reading and reviewing the class README?**
 Just to get some experience and understanding of Hooks.
+
+## Things I want to know more about

@@ -26,3 +26,5 @@ Deciding to switch from useState to useReducer should be based on the specific n
 
 **What are your learning goals after reading and reviewing the class README?**
 Learning about actions and being able to use, useReduce efficiently.
+
+## Things I want to know more about

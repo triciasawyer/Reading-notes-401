@@ -48,3 +48,5 @@ A large scale distrubuted application may make use of SQS by using their error h
 
 **What are your learning goals after reading and reviewing the class README?**
 Looking forward to learning about SNS (notifications) because that is something that everyone uses almost everyday and it will be really interesting building that on top of our knowledge about sending messages.
+
+## Things I want to know more about

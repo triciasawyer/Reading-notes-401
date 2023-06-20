@@ -35,3 +35,5 @@ You can lift the state up to a common ancestor of those components. This way, th
 
 **What are your learning goals after reading and reviewing the class README?**
 To get refreshed with react content and understand/get comfortable withthe use of the state hook for functional components.
+
+## Things I want to know more about

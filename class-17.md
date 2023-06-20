@@ -37,3 +37,5 @@ Improved Website Performance, Enhanced User Experience(with faster load times), 
 
 **What are your learning goals after reading and reviewing the class README?**
 To better understand how to work with AWS (especially S3) and CDNs, to then create S3 buckets for file storage
+
+## Things I want to know more about

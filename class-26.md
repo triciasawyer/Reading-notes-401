@@ -64,3 +64,5 @@ I am excited to learn about hooks in general and what they do/how they work.
 
 **What are your learning goals after reading and reviewing the class README?**
 I have heard of SASS a lot and I am excited to learn about that extension.
+
+## Things I want to know more about
