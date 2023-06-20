@@ -60,7 +60,7 @@ After the DOM updates are applied, the browser performs the layout and paint pha
 Be sure to return a value in your render methods.
 
 **Looking ahead at this module’s course schedule, What do you look forward to learning?**
-I am excited to learn about hooks in general and what they do/how they work
+I am excited to learn about hooks in general and what they do/how they work.
 
 **What are your learning goals after reading and reviewing the class README?**
-I have heard of SASS a lot and I am excited to learn about that extension
+I have heard of SASS a lot and I am excited to learn about that extension.
