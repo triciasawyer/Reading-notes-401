@@ -44,8 +44,6 @@ After the DOM updates are applied, the browser performs the layout and paint pha
 
 ## Bookmark and Review
 
-Keep these pages handy - they answer questions that show up regularly for this lab.
-
 [Your First Component](https://react.dev/learn/your-first-component)
 
 [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
@@ -59,7 +57,10 @@ Keep these pages handy - they answer questions that show up regularly for this l
 ## Additional Questions
 
 **Note the naming conventions in the Airbnb React/JSX Style Guide. What pattern(s) do you see?**
+Be sure to return a value in your render methods.
 
 **Looking ahead at this module’s course schedule, What do you look forward to learning?**
+I am excited to learn about hooks in general and what they do/how they work
 
 **What are your learning goals after reading and reviewing the class README?**
+I have heard of SASS a lot and I am excited to learn about that extension
