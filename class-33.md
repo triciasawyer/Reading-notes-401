@@ -9,16 +9,27 @@ Role Based Access Control is a security model used to manage and control access 
 **Share an example of RBAC including all possible CRUD operations and correlating roles.**
 
 1. Admin:
- • Can create, read, update, and delete any document.
+
+• Can create, read, update, and delete any document.
+
  • Has full control and unrestricted access to all documents.
+
 2. Editor:
+
  • Can create, read, update, and delete documents.
+
  • Cannot perform administrative tasks like managing users or system settings.
+
 3. Author:
+
  • Can create, read, update, and delete their own documents.
+
  • Cannot access or modify documents created by other users.
+
 4. Viewer:
+
  • Can only read documents.
+
  • Cannot create, update, or delete any documents.
 
 As an example, here are four roles defined above, each with different levels of access to the CRUD operations on documents.
@@ -27,7 +38,7 @@ As an example, here are four roles defined above, each with different levels of 
 
 RBAC provides an organized and efficient approach to access control, enhancing security, simplifying administration, and promoting least privilege principles, which are crucial for maintaining the integrity and confidentiality of data and resources within a system.
 
-### Compare and Contrast the following two Libraries and the following questions. Yes, they are similarly named
+## Compare and Contrast the following two Libraries and the following questions. Yes, they are similarly named
 
 [react-cookie library](https://www.npmjs.com/package/react-cookie)
 
