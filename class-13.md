@@ -1,30 +1,37 @@
 # Reading notes class 13
 
-## Socket.io chat example
+## [Socket.io chat example](https://socket.io/get-started/chat/)
 
 **Explain to a non-technical recruiter what the Chat Example (above) does.**
+
 The Chat Example provided above is a guide that demonstrates how to create a basic chat application using Node.js and Socket.IO. It walks through the process of setting up a server and integrating a real-time communication between the server and clients. It starts by explaining the challenges of implementing real-time chat systems and introduces the concept of sockets, which allow for bidirectional communication between clients and servers.
 
 **What proof of life are we getting on the backend from the above app?**
+
 A console log with a message saying , "a user connected."
 
 **Socket.IO gives us the i0.emit() method to send an event to everyone. What flag would you use if you want to send a message to everyone except for a certain emitting socket?**
+
 The Broadcast flag (Socket.broadcast.emit('event', 'Message to everyone except me')).
 
-## Rooms
+## [Rooms](https://socket.io/docs/v4/rooms)
 
 **What is a room and how might a room be useful?**
+
 A room is an arbitrary channel that sockets can join and leave. It can be used to broadcast events to a subset of clients
 
 **How do you join a room?**
+
 You can call join to subscribe the socket to a given channel
 
 **how do you leave a room?**
+
 To leave a channel you call leave in the same fashion as join.
 
-## Namespaces
+## [Namespaces](https://socket.io/docs/v4/namespaces/)
 
 **What is a Namespace and what does it allow you to do?**
+
 A namespace is a way to create separate communication channels or scopes within a Socket.IO server. It allows you to group related sockets and events together, providing a logical separation and organization of functionality.
 
 **Each namespace potentially has its own what? (hint: 3 things).**
@@ -34,6 +41,7 @@ A namespace is a way to create separate communication channels or scopes within 
 - Namespaces have their own room management system. Rooms in Socket.IO are a way to group sockets within a namespace. Each namespace can have its own set of rooms, allowing you to organize sockets into different groups based on their functionality or purpose. This provides a way to selectively emit events to specific groups of sockets within a namespace.
 
 **Discuss a possible use case for separate namespaces.**
+
 Imagine you are building a real-time application that consists of two main sections, a chat feature and a live auction feature. Both features require real-time communication, but they have distinct functionality and behavior. In this scenario, using separate namespaces can provide a more organized and modular structure to your application.
 
 ## Bookmark and Review
@@ -43,6 +51,7 @@ Imagine you are building a real-time application that consists of two main secti
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
 To learn about building an event based messaging server.
 
 ## Things I want to know more about

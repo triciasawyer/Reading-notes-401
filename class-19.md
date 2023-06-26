@@ -1,15 +1,17 @@
 # Reading notes class 19
 
-## AWS SQS vs SNS
+## [AWS SQS vs SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
 **What is the difference between SQS and SNS?**
+
 SQS is a queue-based service that enables asynchronous communication between components, while SNS is a pub/sub service that allows you to broadcast messages to multiple subscribers. The choice between SQS and SNS depends on the specific messaging pattern and requirements of your application.
 
 **What are some use cases for both SNS and SQS?**
+
 Some use cases for SQS are workload decoupling, event processing, and task queues.
 Some use cases for SNS are pub/sub messaging, mobile push notifications, and email and SMS messaging.
 
-## AWS SNS and SQS
+## [AWS SNS and SQS](https://www.youtube.com/watch?v=mXk0MNjlO7A)
 
 **Describe how to use SQS and SNS in a “fanout” pattern.**
 
@@ -24,6 +26,7 @@ The SNS service will distribute the messages to all the subscribed SQS queues.
 - To consume Messages from SQS Queues, each consumer can independently retrieve messages from its assigned SQS queue using the AWS SDK or API. Process the messages based on your application logic. Once a consumer retrieves a message, it becomes invisible to other consumers for a specified visibility timeout period. After the timeout, the message becomes visible again and can be consumed by another consumer.
 
 **Explain how “push notifications” work, using SNS.**
+
 Push notifications using SNS (Simple Notification Service) involve the delivery of real-time messages or notifications to subscribers on various platforms, such as mobile devices, web applications, or other endpoints.
 
 - Create an SNS topic and subscribe endpoints (devices or applications) to it. For mobile devices (iOS, Android), integrate SNS with push notification services (APNs, FCM) and register device tokens with SNS. For web applications or other endpoints, subscribe using HTTP/HTTPS protocols and provide endpoint URLs.
@@ -34,19 +37,22 @@ For web applications or other endpoints, SNS sends HTTP/HTTPS requests directly.
 - Endpoint/device/application handles received notifications. Mobile devices display notifications in the notification center, show alerts, play sounds, or update app badges based on the content.
 Web applications or other endpoints process the notification based on their platform-specific logic
 
-## SQS and SNS Basics
+## [SQS and SNS Basics](https://www.youtube.com/watch?v=UesxWuZMZqI)
 
 **How might a large scale, distributed application make use of a Queue system like SQS?**
+
 A large scale distrubuted application may make use of SQS by using their error handling and retries feature. SQS provides a built-in retry mechanism for processing messages. If a component fails to process a message successfully, SQS can automatically re-queue the message, allowing the component to retry the operation. This helps in handling transient failures and ensures that no messages are lost in case of component failures.
 
 ## Bookmark and Review
 
 [SNS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html)
+
 [SQS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SQS.html)
 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
 Looking forward to learning about SNS (notifications) because that is something that everyone uses almost everyday and it will be really interesting building that on top of our knowledge about sending messages.
 
 ## Things I want to know more about

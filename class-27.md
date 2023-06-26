@@ -13,12 +13,15 @@
 ## [State: A Component’s Memory](https://react.dev/learn/state-a-components-memory)
 
 **What is one reason a local variable isn’t sufficient for managing a React component?**
+
 Local variables only exist within the scope of the function or block where they are defined. In React, components often need to maintain and update their state across multiple render cycles and handle user interactions. Using local variables alone would not provide a persistent and reliable way to store and update component state. React components require a mechanism to preserve state across renders, handle state updates, and trigger re-renders when necessary. This is where React’s built-in state management, such as the useState hook or class-based component state, comes into play. It allows components to manage and update state effectively throughout their lifecycle.
 
 **What is the argument to the useState hook, and what are the two parts of its return array?**
+
 The argument is the initial state value, and the two parts of its return array is first, the  current state value, which can be accessed and updated throughout the component’s lifecycle. Then second, a function that allows you to update the state. This function is commonly named with a “set” prefix followed by the state variable name, such as setState. When invoked, it triggers a re-render of the component with the updated state value.
 
 **How can Component A access state from Component B?**
+
 You can lift the state up to a common ancestor of those components. This way, the shared state can be accessed by both Component A and Component B.
 
 ## Bookmark and Review
@@ -34,6 +37,7 @@ You can lift the state up to a common ancestor of those components. This way, th
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
 To get refreshed with react content and understand/get comfortable with the use of the state hook for functional components.
 
 ## Things I want to know more about
