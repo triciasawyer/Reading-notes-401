@@ -1,4 +1,4 @@
-# Reading notes class 9 - Stacks and Queues
+# Reading notes class 10 - Stacks and Queues
 
 ## Teach something that you learned from the readings listed below
 
