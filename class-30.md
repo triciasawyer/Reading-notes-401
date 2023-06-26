@@ -30,7 +30,6 @@ Some ideas for how you might want to teach:
 
 I chose to write a quiz that contains 5 questions about the content within the article, [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/). Correct answers are below!
 <br/>
-<br/>
 
 1. What is a hash table?
 
