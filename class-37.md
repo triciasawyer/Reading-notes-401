@@ -4,9 +4,16 @@
 
 **Why create multiple reducers?**
 
+- As your application grows, it becomes more complex and contains different domains or slices of state. By creating multiple reducers, you can handle each domain separately and keep the related logic and state management contained within a specific reducer.
+- You can write focused unit tests
+
 **How would you combine multiple reducers?**
 
+By using the combineReducers function provided by the Redux library
+
 **How will you manage state as an immutable object? why?**
+
+Managing state as an immutable object means that the state cannot be modified directly. Instead, any changes to the state result in the creation of a new state object. With this, you benefit from it by having predictable state changes, better code performance, and time-travel debugging!
 
 [Redux Docs: Using Combined Reducers](https://redux.js.org/usage/structuring-reducers/using-combinereducers/)
 
