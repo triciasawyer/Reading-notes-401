@@ -44,4 +44,5 @@ Use descriptive names that indicate the slice of state they handle. The general 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
+
 To better understand reducer and be able to walk away with the knowledge of using that function confidently
