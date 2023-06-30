@@ -35,4 +35,4 @@ Say you have a large puzzle consisting of different sections. Each section repre
 I am really looking forward to learning about Graphs and React Native! Also, the final exam prep. I am excited to put my knowledge to the test and grow from there.
 
 **What are your learning goals after reading and reviewing the class README?**
-To take on Redux and just naviagte through that content.
+To take on Redux and just navigate through that content.
