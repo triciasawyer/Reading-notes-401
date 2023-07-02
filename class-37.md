@@ -1,6 +1,6 @@
 # Reading notes class 37
 
-[Multiple Reducers Example](https://www.youtube.com/watch?v=gBER4Or86hE)
+## [Multiple Reducers Example](https://www.youtube.com/watch?v=gBER4Or86hE)
 
 **Why create multiple reducers?**
 
@@ -15,7 +15,7 @@ By using the combineReducers function provided by the Redux library
 
 Managing state as an immutable object means that the state cannot be modified directly. Instead, any changes to the state result in the creation of a new state object. With this, you benefit from it by having predictable state changes, better code performance, and time-travel debugging!
 
-[Redux Docs: Using Combined Reducers](https://redux.js.org/usage/structuring-reducers/using-combinereducers/)
+## [Redux Docs: Using Combined Reducers](https://redux.js.org/usage/structuring-reducers/using-combinereducers/)
 
 **combineReducers is a utility function to simplify the most common use case when writing ___ _____ .**
 
@@ -31,7 +31,7 @@ When an action is dispatched, the combined reducer calls each individual reducer
 
 the initial state is defined as an object where each key represents a slice of the state and the corresponding value is the initial state for that slice. The initial state object is then passed as an argument to the createStore function when setting up the Redux store
 
-[Redux Docs: Combined Reducer Syntax](https://redux.js.org/api/combinereducers/)
+## [Redux Docs: Combined Reducer Syntax](https://redux.js.org/api/combinereducers/)
 
 **Why will you want to split your reducing functions as your app becomes more complex?**
 

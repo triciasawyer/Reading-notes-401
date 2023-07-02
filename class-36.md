@@ -1,6 +1,6 @@
 # Reading notes class 36
 
-[Dan Abramov Redux Tutorials](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
+## [Dan Abramov Redux Tutorials](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 
 **What is the first principle of Redux?**
 
