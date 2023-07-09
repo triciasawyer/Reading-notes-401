@@ -15,6 +15,7 @@
 
 
 **Look over the above content.**
+
     1. Teach us two things about Next.js.
     2. Teach us two things about Gatsby.js.
 
