@@ -22,3 +22,19 @@
 Next.js is 
 
 Gatsby.js is 
+
+## Bookmark and review
+
+[AngularJS](https://angularjs.org/)
+
+[Angular](https://angular.io/)
+
+[vue](https://vuejs.org/)
+
+[backbone](http://backbonejs.org/)
+
+[ember](https://emberjs.com/)
+
+[knockout](https://knockoutjs.com/)
+
+[Laravel (php)](https://laravel.com/)
