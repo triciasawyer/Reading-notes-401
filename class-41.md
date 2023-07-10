@@ -19,9 +19,9 @@
     1. Teach us two things about Next.js.
     2. Teach us two things about Gatsby.js.
 
-Next.js is 
+Next.js is a framework built specifically for React applications. It provides solutions to common challenges faced when building React apps, such as code bundling, code splitting, server side rendering (SSR), static site generation (SSG), routing, and others. Next.js also offers powerful features for routing, rendering, and data fetching that contribute to building an interactive and dynamic web application. Next.js provides a file system based router that allows you to create routes in your app. This router supports features like layouts, nested routing, loading states, and error handling.
 
-Gatsby.js is 
+Gatsby.js is a static site generator that helps you build fast and optimized websites by using React and GraphQL while generating static HTML, CSS, and JavaScript files.
 
 ## Bookmark and review
 
