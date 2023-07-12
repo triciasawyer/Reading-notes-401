@@ -1,4 +1,4 @@
-# Reading notes class 40a
+# Reading notes class 44
 
 Review at least one article from both “Ethics in the workplace” and “Ethics in Technology” sections below and write how each of them relates to ethics in technology. Do you agree or disagree with these articles? What stuck out to you specifically from each article?
 
