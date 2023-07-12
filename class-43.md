@@ -41,4 +41,8 @@
 
 **Looking ahead at this module’s course schedule, What do you look forward to learning?**
 
+I am looking forward to project kickoffs and getting that going
+
 **What are your learning goals after reading and reviewing the class README?**
+
+My learning goals are to take as much knowledge taught as I can, about react native and all the features that come along with it
