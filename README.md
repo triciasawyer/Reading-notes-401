@@ -40,7 +40,8 @@
 - [401 Class 38](class-38.md)
 - [401 Class 39](class-39.md)
 - [401 Class 40](class-40.md)
+- [401 Class 41](class-41.md)
 - [401 Class 40a](class-40a.md)
-- [401 Class 40b](class-40b.md)
+
   
 - [Prep work](prep-work.md)
