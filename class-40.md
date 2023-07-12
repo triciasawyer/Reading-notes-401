@@ -1,4 +1,4 @@
-# Reading class 40
+# Reading notes class 40
 
 ## Gatsby and next.js Resources
 
