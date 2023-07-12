@@ -23,7 +23,7 @@ Basic Authentication is a method for an HTTP user agent (a web browser) to provi
 
 **What properties are necessary in the header of a Basic Auth request?**
 
-In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic < credentials >, where credentials is the Base64 encoding of ID and password.
+In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic `<credentials>`, where credentials is the Base64 encoding of ID and password.
 
 **How are username:password in Basic Auth encoded?**
 
